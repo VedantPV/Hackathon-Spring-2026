@@ -1,2 +1,4 @@
 # Hackathon-Spring-2026
-A GitHub Repo for Decompiler's Spring 2026 Hackathon
+A Shared GitHub Repo for Decompiler's Spring 2026 Hackathon
+
+Collaborators: Minyu, Bilol, Yedil
